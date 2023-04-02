@@ -1,0 +1,13 @@
+.bg-img1 img {
+  height: 100vh;
+}
+
+.bg-img2 img {
+  width: 300vh;
+  height: 100vh;
+}
+
+.bg-img3 img {
+  height: 100vh;
+  width: 300vh;
+}
